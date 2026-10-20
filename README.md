@@ -1,1 +1,3 @@
 # Teori-Optimasi
+
+belajar
